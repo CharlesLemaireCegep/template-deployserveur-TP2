@@ -16,3 +16,6 @@ sudo apt-get install serviceX -y
 serviceX --configmenu
 ...
 ```
+
+## Liens vers les procédures des améliorations
+- [Amélioration A](/Documentation/Améliorations/ProcédureAméliorationA.md)

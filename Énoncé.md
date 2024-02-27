@@ -12,7 +12,13 @@ Un service avec des améliorations
 
 ## Projet d'entreprise - un projet personnalisé
 
-Au cours du TP-2 vous prendrez le rôle de développeurs dans notre entreprise ***DéploiNet Innovations***, vous devrez en binôme créer un serveur IRC avec l'assistance de l'enseigant ainsi qu'un serveur de votre choix parmis une liste de technologies fourni ci-dessous. Le projet se déroulera sur 6 semaines et comprendra 3 itérations, deux démonstrations d'avancements ainsi qu'une présentation finale devant la classe.
+Au cours du TP-2 vous prendrez le rôle de développeurs dans notre entreprise ***DéploiNet Innovations***, vous devrez en binôme créer un serveur IRC avec l'assistance de l'enseigant ainsi qu'un serveur de votre choix parmis une liste de technologies fourni ci-dessous. Le projet se déroulera sur 6 semaines et comprendra 3 itérations, deux démonstrations d'avancements ainsi qu'une présentation finale devant la classe. 
+
+## Règles de base du projet
+- Vous devez vous départager les tâches équitablement
+- Chaque coéquipier doit configurer sa machine, donc 2 machines identiques en même temps pour un projet.
+- Vous devez remplir les fichiers Markdown au fur et à mesure, ceux-ci seront validés à chaque itération.
+- Les services qui ne sont pas documentés ne seront pas évalués.
 
 ## Calendrier des itérations
 
@@ -119,13 +125,20 @@ Au cours de cette semaine, vous devrez finaliser votre projet et faire une prés
 
 ## Documentation
 ### Fiches
-- [Fiche des choix technologiques](/Documents/Fiches/FicheChoixTechnologiques.md)
-- [Fiche des améliorations](/Documents/Fiches/FichieAmeliorations.md)
+- [Fiche des choix technologiques](/Documentation/ChoixTechnologiques/FicheChoixTechnologiques.md)
+- [Fiche des améliorations](/Documentation/Améliorations/FichieAmeliorations.md)
 
 ### Procédures
-- [Procédure IRC](/Documents/Fiches/FicheChoixTechnologiques.md)
-- [Procédure de test du Service choisi](/Documents/Procédures/ProcédureTest.md)
-- [Procédure Service Personnalisé](/Documents/Procédures/ProcédureService.md)
+- [Procédure IRC](/Documentation/Fiches/FicheChoixTechnologiques.md)
+- [Procédure Service Personnalisé](/Documentation/Procédures/ProcédureService.md)
+- [Procédure de test du Service choisi](/Documentation/Procédures/ProcédureTest.md)
 
 ### Devis
-- [Devis](/Documents/Devis/devis.md)
+- [Devis](/Documentation/Devis/devis.md)
+
+### Astuces pour vous faciliter la vie
+- Utiliser Github Desktop pour faire vos commits Markdown
+- Utiliser VSCode pour faire l'édition de vos fichiers Markdown
+- Utiliser les extensions suivantes pour vous faciliter la tâche
+  - Markdown All in One
+  - Markdow Preview Enhanced
