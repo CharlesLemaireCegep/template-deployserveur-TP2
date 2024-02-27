@@ -1,6 +1,6 @@
 # Fiche d'améliorations du Service X
 
-### Consignes (à enlever)
+### Informations (à enlever)
 Les améliorations du service choisi sont des améliorations qui seront bénéfiques à l'entreprise et qui pourrait remplir les besoins d'une petit ou grande entreprise. 
 
 Voici différentes sphères d'activités faites en entreprise:
@@ -22,12 +22,15 @@ Voici quelques sources pour se donner des idées:
 - Tutoriels
   - Vidéos, Blogs, Githubs, etc.
 
-Vous devez donc compléter les différentes sections ci-dessous:
+## Modules
+Dans cette section vous devez rechercher, discutter et  deux à trois modules qui serait intéressant d'intégrer dans votre service et donner un lien vers un tutoriel de configuration. Voici quelques [exemples de modules génériques](/DemandesEntreprise.md#modules-id) qui pourrait être intéressants. Vous devez ensuite donner quelques configurations à effectuer qui serait intéressante pour l'entreprise.
 
-## Configurations du service de base
-Pour chaque section de configuration des améliorations vous devez spécifier la localisation sur le disque et une explication sur sa fonction ainsi que quelques configurations intéressantes pour l'entreprise.
+### ==EXEMPLE: Module Y==
+- [Lien vers la documentation du module Y](#)
+- [Lien vers un tutoriel module Y](#)
+Le module Y permet de Eu fugiat mollit in in dolore sint tempor nulla adipisicing. Nostrud nisi aute quis ullamco ex occaecat minim non do esse laborum aliqua do non. Enim amet voluptate nulla et consectetur. Adipisicing aute nulla qui labore laborum est eu cillum reprehenderit qui. Tempor id aute aliquip ex sunt pariatur ipsum aute aliqua elit adipisicing adipisicing ipsum tempor. Ut commodo laborum cillum commodo irure voluptate elit commodo ex dolor duis aliqua.
 
-#### ==EXEMPLE: Fichier de configuration du client==
+#### Configurations
 Localisation: `/var/ServiceX/client.conf`
 Le fichier client.conf permet la configuration du client du serviceX il offre les différentes options suivantes:
 ```yaml
@@ -40,24 +43,11 @@ serviceXClientConfig:
     password: "motDePasseSécurisé"
     apiKey: "cléAPIfournieParServiceX"
 
-  # Configuration de la connexion au service
-  connection:
-    url: "https://api.serviceX.com"
-    timeout: 30 # Temps d'attente en secondes
-
   # Paramètres spécifiques à l'application ou au service
   appSettings:
     mode: "production" # Ou "development", selon l'environnement
     logLevel: "info" # Niveaux: debug, info, warning, error
 ```
-
-## Modules
-Dans cette section vous devez rechercher et expliquer deux à trois modules qui serait intéressant d'intégrer dans votre service et donner un lien vers un tutoriel de configuration. Voici quelques [exemples de modules génériques](/Informations.md) qui pourrait être intéressants.
-
-### ==EXEMPLE: Module Y==
-- [Lien vers la documentation du module Y](#)
-- [Lien vers un tutoriel module Y](#)
-Le module Y permet de Eu fugiat mollit in in dolore sint tempor nulla adipisicing. Nostrud nisi aute quis ullamco ex occaecat minim non do esse laborum aliqua do non. Enim amet voluptate nulla et consectetur. Adipisicing aute nulla qui labore laborum est eu cillum reprehenderit qui. Tempor id aute aliquip ex sunt pariatur ipsum aute aliqua elit adipisicing adipisicing ipsum tempor. Ut commodo laborum cillum commodo irure voluptate elit commodo ex dolor duis aliqua.
 
 ## Discussion sur les améliorations choisies
 Dans cette section vous devez discuter et justifier les différentes améliorations choisies.
