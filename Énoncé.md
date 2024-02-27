@@ -15,7 +15,7 @@ Au cours du TP-2 vous prendrez le rôle de développeurs dans notre entreprise *
 
 ## Calendrier des itérations
 
-### Semaine 1 - Itération 0
+## Semaine 1 - Itération 0
 ##### Création du serveur IRC, modifications et choix technologique
 Au cours de la première semaine, vous aurez à créer le serveur de base IRC ainsi que faire le choix de la technologie de votre serveur personnalisé.
 
@@ -24,7 +24,7 @@ Au cours de la première semaine, vous aurez à créer le serveur de base IRC ai
 - [ ] Compléter les modifications du serveur IRC
 - [ ] Compléter la fiche de choix technologiques
 
-### Semaine 2 - Itération 1
+## Semaine 2 - Itération 1
 ##### Modifications au serveur IRC et Création du serveur de base personnalisé
 Au cours de cette semaine vous devrez faire l'implémentation et la configuration de votre serveur de base, ainsi que faire les démonstrations de la complétion du serveur IRC ainsi que votre serveur personnalisé.
 
@@ -33,7 +33,7 @@ Au cours de cette semaine vous devrez faire l'implémentation et la configuratio
 - [ ] Démonstration de l'implémentation et la personnalisation du serveur IRC
 - [ ] Démonstration de l'implémentation fonctionnelle du serveur personnalisé
 
-### Semaine 3 - Itération 2
+## Semaine 3 - Itération 2
 ##### Début de l'implémentation des modifications au serveur personnalisé
 Au cours de cette semaine vous devrez faire des recherches sur les modifications possibles de votre serveur personnalisé ainsi que compléter et faire approuver votre fiche de modifications avec l'enseignant. Vous devrez ensuite commencer l'implémentation et la configuration des modifications pour votre serveur personnalisé.
 
@@ -42,7 +42,7 @@ Au cours de cette semaine vous devrez faire des recherches sur les modifications
 - [ ] Commencer l'implémentation des modifications du serveur personnalisé
 - [ ] 
 
-### Semaine 4 - Itération 2
+## Semaine 4 - Itération 2
 ##### Ajout des modifications du serveur personnalisé 
 Au cours de cette semaine, vous devrez commencer la configuration des modules personnalisés
 
@@ -51,7 +51,7 @@ Au cours de cette semaine, vous devrez commencer la configuration des modules pe
 - [ ] Démonstration des avancements et de la complétion de l'itération 1
 - [ ] Compléter la fiche de modifications
 
-### Semaine 5 - Itération Finale
+## Semaine 5 - Itération Finale
 ##### Ajout des modifications du serveur personnalisé 
 Au cours de cette semaine, vous devrez commencer la configuration des modules personnalisés
 
