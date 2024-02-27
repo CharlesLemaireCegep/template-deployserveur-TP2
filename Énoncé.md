@@ -1,8 +1,5 @@
 # Projet Serveur Entreprise (20%)
 
-Un service avec des améliorations
-
-
 ### Mise en contexte
 
 | Parties                                      | Description                                                                                                                  | note totale |
@@ -142,3 +139,4 @@ Au cours de cette semaine, vous devrez finaliser votre projet et faire une prés
 - Utiliser les extensions suivantes pour vous faciliter la tâche
   - Markdown All in One
   - Markdow Preview Enhanced
+- Avant de commit, assurez-vous de pull les changements distants, pour ne pas perdre votre progression!
