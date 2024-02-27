@@ -72,7 +72,7 @@ Il peut être toutefois accompagné d'un service en ligne / client web!
 - [Alternativo](https://alternativeto.net/software/gitlab/?license=opensource&platform=self-hosted)
 
 
-### Exemples de modules {#modules-id}
+### [Exemples de modules](#modules-id)
 - Modules
   - services web, courriels, Mods
 - Apps
