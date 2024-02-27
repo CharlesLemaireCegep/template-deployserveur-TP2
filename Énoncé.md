@@ -16,7 +16,8 @@ Au cours du TP-2 vous prendrez le rôle de développeurs dans notre entreprise *
 
 ## Calendrier des itérations
 
-## Semaine 1 - Itération 0
+## Itération 0
+### Semaine 1
 
 ##### Création du serveur IRC, Améliorations et choix technologique
 
@@ -28,7 +29,8 @@ Au cours de la première semaine, vous aurez à créer le serveur de base IRC ai
 - [ ] Compléter les améliorations du serveur IRC
 - [ ] Compléter la fiche de choix technologiques
 
-## Semaine 2 - Itération 1
+## Itération 1
+### Semaine 2
 
 ##### Améliorations au serveur IRC et Création du serveur de base personnalisé
 
@@ -40,7 +42,8 @@ Au cours de cette semaine vous devrez faire l'implémentation et la configuratio
 - [ ] Démonstration de l'implémentation et la personnalisation du serveur IRC
 - [ ] Démonstration de l'implémentation fonctionnelle du serveur personnalisé
 
-## Semaine 3 - Itération 2
+## Itération 2
+### Semaine 3
 
 ##### Début de l'implémentation des améliorations au serveur personnalisé
 
@@ -51,7 +54,7 @@ Au cours de cette semaine vous devrez faire des recherches sur les amélioration
 - [ ] Compléter la fiche d'améliorations
 - [ ] Commencer l'implémentation des améliorations du serveur personnalisé
 
-## Semaine 4 - Itération 2
+### Semaine 4
 
 ##### Finalisation des améliorations du serveur personnalisé
 
@@ -62,8 +65,8 @@ Au cours de cette semaine, vous devrez terminer la création des améliorations 
 - [ ] Compléter l'implémentation des améliorations du serveur personnalisé
 - [ ] Démonstration de l'implémentation des améliorations du serveur personnalisé
 
-## Semaine 5 - Itération 3 + Examen de mi-session
-
+## Itération 3
+### Semaine 5
 ##### Ajout des scripts d'automatisation et de surveillance
 
 Au cours de cette semaine, vous devrez programmer des scripts d'automatisation et de surveillance en lien avec votre serveur personnalisé pour accroîre la sécurité ainsi que faire l'analyse des logs du serveur.
@@ -73,7 +76,8 @@ Au cours de cette semaine, vous devrez programmer des scripts d'automatisation e
 - [ ] Créer un script de surveillance d'un service
 - [ ] Créer un script d'analyse et d'automatisation des logs
 
-## Semaine 6 - Finalisation et présentations
+## Finalisation et présentations
+### Semaine 6
 
 ##### Finalisation des scripts / Configurations finales et Présentations
 
@@ -114,7 +118,6 @@ Au cours de cette semaine, vous devrez finaliser votre projet et faire une prés
 | Semaine 6 | 5 Avril | Présentation en classe du serveur final                         |
 
 ## Documentation
-
 ### Fiches
 - [Fiche des choix technologiques](/Documents/Fiches/FicheChoixTechnologiques.md)
 - [Fiche des améliorations](/Documents/Fiches/FichieAmeliorations.md)
@@ -123,3 +126,6 @@ Au cours de cette semaine, vous devrez finaliser votre projet et faire une prés
 - [Procédure IRC](/Documents/Fiches/FicheChoixTechnologiques.md)
 - [Procédure de test du Service choisi](/Documents/Procédures/ProcédureTest.md)
 - [Procédure Service Personnalisé](/Documents/Procédures/ProcédureService.md)
+
+### Devis
+- [Devis](/Documents/Devis/devis.md)
