@@ -23,12 +23,14 @@ Voici quelques sources pour se donner des idées:
   - Vidéos, Blogs, Githubs, etc.
 
 ## Modules
-Dans cette section vous devez rechercher, discutter et  deux à trois modules qui serait intéressant d'intégrer dans votre service et donner un lien vers un tutoriel de configuration. Voici quelques [exemples de modules génériques](/DemandesEntreprise.md#modules-id) qui pourrait être intéressants. Vous devez ensuite donner quelques configurations à effectuer qui serait intéressante pour l'entreprise.
 
-### ==EXEMPLE: Module Y==
-- [Lien vers la documentation du module Y](#)
-- [Lien vers un tutoriel module Y](#)
+### EXEMPLE: Module Y
 Le module Y permet de Eu fugiat mollit in in dolore sint tempor nulla adipisicing. Nostrud nisi aute quis ullamco ex occaecat minim non do esse laborum aliqua do non. Enim amet voluptate nulla et consectetur. Adipisicing aute nulla qui labore laborum est eu cillum reprehenderit qui. Tempor id aute aliquip ex sunt pariatur ipsum aute aliqua elit adipisicing adipisicing ipsum tempor. Ut commodo laborum cillum commodo irure voluptate elit commodo ex dolor duis aliqua.
+
+- [Tutoriel d'installation](#)
+- [Tutoriel de configuration](#)
+- [Documentation Officielle](#)
+- [Procédure d'amélioration](/Documentation/ServeurChoix/Procédures/Améliorations/ProcédureAméliorationExemple.md)
 
 #### Configurations
 Localisation: `/var/ServiceX/client.conf`
@@ -48,9 +50,3 @@ serviceXClientConfig:
     mode: "production" # Ou "development", selon l'environnement
     logLevel: "info" # Niveaux: debug, info, warning, error
 ```
-
-## Discussion sur les améliorations choisies
-Dans cette section vous devez discuter et justifier les différentes améliorations choisies.
-
-### ==EXEMPLE: Module Y==
-Nous avons choisi de considérer le module y pour notre projet car Minim ipsum nulla magna nisi officia. Anim magna amet nostrud fugiat commodo. Ea est adipisicing aliqua laboris cupidatat ea. Magna qui excepteur laborum elit eiusmod incididunt pariatur quis ea nostrud aliquip amet adipisicing adipisicing.Excepteur velit sunt Lorem anim amet. Reprehenderit voluptate cupidatat Lorem minim et. Ipsum voluptate officia magna consequat labore ut. Cupidatat Lorem nostrud amet commodo minim duis ut cupidatat sunt irure laborum. Duis magna aute et culpa nostrud ad labore aliquip consectetur veniam. Anim qui tempor laborum nisi nisi ad minim proident consequat et esse. Aliqua ullamco excepteur aute ut incididunt in nisi consectetur nulla reprehenderit cillum aute.

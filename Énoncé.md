@@ -1,21 +1,15 @@
 # Projet Serveur Entreprise (20%)
 
-### Mise en contexte
-
-| Parties                                      | Description                                                                                                                  | note totale |
-| -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| Processus avec Serveur IRC avec **InspIRCd** | Serveur IRC utilisant la technologie InspIRCd, avec des améliorations personnalisées ainsi que des scripts d'automatisation. | 5%          |
-| Processus avec Serveur au Choix              | Serveur au choix incluant plusieurs améliorations ainsi que des scripts d'automatisation.                                    | 15%         |
-
 ## Projet d'entreprise - un projet personnalisé
 
-Au cours du TP-2 vous prendrez le rôle de développeurs dans notre entreprise ***DéploiNet Innovations***, vous devrez en binôme créer un serveur IRC avec l'assistance de l'enseigant ainsi qu'un serveur de votre choix parmis une liste de technologies fourni ci-dessous. Le projet se déroulera sur 6 semaines et comprendra 3 itérations, deux démonstrations d'avancements ainsi qu'une présentation finale devant la classe. 
+Au cours du TP-2 vous prendrez le rôle de développeurs dans notre entreprise ***DéploiNet Innovations***, vous devrez en binôme créer un serveur IRC avec l'assistance de l'enseigant ainsi qu'un serveur de votre choix parmis une liste de technologies fourni ci-dessous. Le projet se déroulera sur 6 semaines et comprendra 4 itérations, deux démonstrations d'avancements ainsi qu'une présentation finale devant la classe. 
 
 ## Règles de base du projet
 - Vous devez vous départager les tâches équitablement
 - Chaque coéquipier doit configurer sa machine, donc 2 machines identiques en même temps pour un projet.
 - Vous devez remplir les fichiers Markdown au fur et à mesure, ceux-ci seront validés à chaque itération.
 - Les services qui ne sont pas documentés ne seront pas évalués.
+- À chaque fois que vous avancez, prenez note de votre procédure dans les fichiers appropriés
 
 ## Calendrier des itérations
 
@@ -28,8 +22,8 @@ Au cours de la première semaine, vous aurez à créer le serveur de base IRC ai
 
 #### Objectifs
 
-- [ ] Commencer l'implémentation du serveur IRC
-- [ ] Compléter les améliorations du serveur IRC
+- [ ] Compléter l'implémentation du serveur IRC
+- [ ] Commencer les améliorations du serveur IRC
 - [ ] Compléter la fiche de choix technologiques
 
 ## Itération 1
@@ -41,9 +35,9 @@ Au cours de cette semaine vous devrez faire l'implémentation et la configuratio
 
 #### Objectifs
 
-- [ ] Compléter l'implémentation fonctionnelle du serveur personnalisé.
+- [ ] Compléter les améliorations du serveur IRC
+- [ ] Compléter l'implémentation de base du serveur personnalisé.
 - [ ] Démonstration de l'implémentation et la personnalisation du serveur IRC
-- [ ] Démonstration de l'implémentation fonctionnelle du serveur personnalisé
 
 ## Itération 2
 ### Semaine 3
@@ -54,6 +48,7 @@ Au cours de cette semaine vous devrez faire des recherches sur les amélioration
 
 #### Objectifs
 
+- [ ] Démonstration de l'implémentation de base du serveur personnalisé
 - [ ] Compléter la fiche d'améliorations
 - [ ] Commencer l'implémentation des améliorations du serveur personnalisé
 
@@ -120,18 +115,17 @@ Au cours de cette semaine, vous devrez finaliser votre projet et faire une prés
 | Semaine 4 | 22 Mars | Démonstration du serveur personnalisé Amélioré                  |
 | Semaine 6 | 5 Avril | Présentation en classe du serveur final                         |
 
-## Documentation
-### Fiches
-- [Fiche des choix technologiques](/Documentation/ChoixTechnologiques/FicheChoixTechnologiques.md)
-- [Fiche des améliorations](/Documentation/Améliorations/FichieAmeliorations.md)
+## Contenu de la documentation
 
-### Procédures
-- [Procédure IRC](/Documentation/Fiches/FicheChoixTechnologiques.md)
-- [Procédure Service Personnalisé](/Documentation/Procédures/ProcédureService.md)
-- [Procédure de test du Service choisi](/Documentation/Procédures/ProcédureTest.md)
+| Type                           | Contenu                                                                                                                                                                                                                                                                                                                                    | Exemple                                                                                         |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| Procédure de configuration     | L'ensemble des commandes, des configurations et manipulations que vous avez fait pour configurer votre service. Chaque Commande doit contenir une description claire et consise.                                                                                                                                                           | [Procédure IRC](/Documentation/IRC/ProcédureIRC.md)                                             |
+| Fiche des choix technologiques | Pour chaque service recherché, vous devez remplir une section contenant une description détaillée, un lien vers un tutoriel d'installation, un lien vers un tutoriel de configuration ainsi que le lien vers la documentation officielle. Pour la technologie selectionnée, vous devez ajouter un lien local vers votre procédure de test. | [Fiche de choix technologiques](/Documentation/ServeurChoix/Fiches/FicheChoixTechnologiques.md) |
+| Fiche des améliorations        |                                                                                                                                                                                                                                                                                                                                            |                                                                                                 |
+| Fichier de script              | Dans la partie d'automatisation et sécurité, vous devez ajouter vos scripts incluant une description, le code ainsi que les résultats obtenus si applicable.                                                                                                                                                                               | [Fichier de script IRC](/Documentation/IRC/Scripts/template_script.md)                          |
+| Configurations                 | Pour les services installés ou modifiés, vous devez fournir un exemplaire du fichier de configuration à jour dans la section config de chaque service.                                                                                                                                                                                     | N/A                                                                                             |
+|                                |                                                                                                                                                                                                                                                                                                                                            |                                                                                                 |
 
-### Devis
-- [Devis](/Documentation/Devis/devis.md)
 
 ### Astuces pour vous faciliter la vie
 - Utiliser Github Desktop pour faire vos commits Markdown
@@ -140,3 +134,14 @@ Au cours de cette semaine, vous devrez finaliser votre projet et faire une prés
   - Markdown All in One
   - Markdow Preview Enhanced
 - Avant de commit, assurez-vous de pull les changements distants, pour ne pas perdre votre progression!
+
+
+## Répartitions des notes
+
+| Parties                                      | Description                                                                                                                | note totale |
+| -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| Processus avec Serveur IRC avec **InspIRCd** | Serveur IRC utilisant la technologie InspIRCd, avec 3 améliorations personnalisées ainsi que des scripts d'automatisation. | 5%          |
+| Processus avec Serveur au Choix              | Serveur au choix incluant plusieurs améliorations ainsi que des scripts d'automatisation.                                  | 15%         |
+
+
+Dans cette section vous devez rechercher et discuter de deux à trois modules qui serait intéressant d'intégrer dans votre service et donner un lien vers un tutoriel de configuration. Voici quelques [exemples de modules génériques](/DemandesEntreprise.md#modules-id) qui pourrait être intéressants. Vous devez ensuite donner quelques configurations à effectuer qui serait intéressante pour l'entreprise.

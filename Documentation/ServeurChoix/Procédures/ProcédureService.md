@@ -1,7 +1,6 @@
 # Procédure d'installation et configuration du service *NOM_DU_SERVICE*
-==Vous devez ici ajouter l'ensemble des commandes, des configurations et manipulations pour qu'un programmeur puisse compléter votre projet du service choisi à partir de zéro. Voici un exemple de base pour vous aide avec la syntaxe Markdown==
 
-## Étape EXEMPLE - Préparation du pare-feu et installation du Service X
+## Étape X - Préparation du pare-feu et installation du Service X
 
 ##### Ajout des configurations du pare-feu et validation des accès
 ```
