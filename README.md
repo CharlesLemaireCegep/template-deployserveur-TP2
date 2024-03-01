@@ -8,8 +8,8 @@
 ### Type du serveur choisi
 type ici
 
-### Lien vers votre IRC
+### URL vers votre IRC
 lien ici
 
-### Lien vers votre service personnalisé
+### URL vers votre service personnalisé
 lien ici

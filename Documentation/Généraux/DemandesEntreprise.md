@@ -1,5 +1,5 @@
 # Demandes de l'entreprise
-Dans le cadre du projet, pour des raisons mystérieuses vous demande de respecter les conditions suivantes pour l'acceptation de votre travail:
+Dans le cadre du projet, pour des raisons mystérieuses vous demandant de respecter les conditions suivantes pour l'acceptation de votre travail:
 
 ### Votre service doit être
 - Un logiciel Libre et Open-Source à 100%
@@ -83,7 +83,7 @@ Il peut être toutefois accompagné d'un service en ligne / client web!
   - pour les chats et les jeux
 - Bridges
   - pour les chats (synchro irc-discord), Automatisation externe
-- Services collaboratif
+- Services collaboratifs
   - chat irc (nickserv), service identité (ldap-courriel)
 - Clients web compagnons
   -  courriels, certains chats

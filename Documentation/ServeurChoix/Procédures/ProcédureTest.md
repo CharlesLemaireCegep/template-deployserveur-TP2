@@ -1,5 +1,4 @@
 # Procédure de test du service *NOM_DU_SERVICE*
-==Vous devez ici ajouter l'ensemble des commandes, des configurations et manipulations que vous avez fait pour tester votre technologie et voir si celle-ci fonctionne. Voici un exemple de base pour vous aide avec la syntaxe Markdown==
 
 ## Comptes utilisateurs et administrateur
 | Comptes utilisateurs | mot de passe |
@@ -32,4 +31,7 @@ ping serviceX.exemple.com
 weeWoo --connect serviceX.exemple.com --test
 ```
 
+...
+
+#### Étapes d'utilisation du service
 ...
