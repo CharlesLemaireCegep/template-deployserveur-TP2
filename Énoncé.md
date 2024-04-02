@@ -103,9 +103,9 @@ Au cours de cette semaine, vous devrez finaliser votre projet et faire une prés
 | Semaine 1 | Itération 0   | 25 Février | 2 Mars   |
 | Semaine 2 | Itération 1   | 3 Mars     | 9 Mars   |
 | Semaine 3 | Itération 2   | 10 Mars    | 16 Mars  |
-| Semaine 4 | Itération 2   | 17 Mars    | 23 Mars  |
-| Semaine 5 | Itération 3   | 24 Mars    | 30 Mars  |
-| Semaine 6 | Présentations | 31 Mars    | 6 Avril  |
+| Semaine 4 | Itération 2   | 17 Mars    | 8 Avril  |
+| Semaine 5 | Itération 3   | 9 Avril    | 15 Avril  |
+| Semaine 6 | Présentations | 16 Avril   | 16 Avril  |
 
 ### Remise de documents
 
@@ -113,15 +113,15 @@ Au cours de cette semaine, vous devrez finaliser votre projet et faire une prés
 | --------- | ------- | ----------------------------------------------------------- |
 | Semaine 1 | 1 Mars  | Remise de la fiche des choix technologiques et confirmation |
 | Semaine 3 | 12 Mars | Remise de la fiche des améliorations et confirmation        |
-| Semaine 5 | 6 Avril | Remise finale du répertoire du projet                       |
+| Semaine 5 | 16 Avril | Remise finale du répertoire du projet                       |
 
 ### Démonstrations et présentations
 
 | Semaine   | Date    | Événement                                                                |
 | --------- | ------- | ------------------------------------------------------------------------ |
 | Semaine 2 | 8 Mars  | Démonstration du serveur IRC amélioré et du serveur personnalisé de base |
-| Semaine 4 | 22 Mars | Démonstration du serveur personnalisé amélioré                           |
-| Semaine 6 | 5 Avril | Présentation en classe du serveur final                                  |
+| Semaine 4 | 9 Avril | Démonstration du serveur personnalisé amélioré                           |
+| Semaine 6 | 16 Avril | Présentation en classe du serveur final                                  |
 
 ## Contenu de la documentation
 
